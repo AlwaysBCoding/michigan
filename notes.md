@@ -10,7 +10,9 @@ The slopes are more pronounced in heavier republican districts because they're d
 
 3. Macomb [+]
 
-4. Kent [+]
+4. Kent [362,074 votes (501,117 reg.) (72.25%)] [252 precincts] [D+6] [+] <-.179>
+- https://electionreporting.com/county/db3f9865-656b-4704-9429-bd38e726ab42/contest/Straight%20Party [straight party]
+- https://electionreporting.com/county/db3f9865-656b-4704-9429-bd38e726ab42/contest/President%20%2F%20Vice%20Pres. [president]
 
 5. Genesee
 
