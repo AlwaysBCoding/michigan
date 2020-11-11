@@ -6,59 +6,59 @@ The slopes are more pronounced in heavier republican districts because they're d
 
 1. Wayne [-]
 
-2. Oakland [+]
+2. Oakland (can only find ugly format)
 
-3. Macomb [+]
+3. Macomb (can only find ugly format)
 
 4. Kent [362,074 votes (501,117 reg.) (72.25%)] [252 precincts] [D+6] [+] <-.179>
 - https://electionreporting.com/county/db3f9865-656b-4704-9429-bd38e726ab42/contest/Straight%20Party [straight party]
 - https://electionreporting.com/county/db3f9865-656b-4704-9429-bd38e726ab42/contest/President%20%2F%20Vice%20Pres. [president]
 
-5. Genesee
+5. Genesee (can't find good data)
 
-6. Washtenaw [217,813 votes] [150 precincts] [D72.4] [+] <-.168>
+6. Washtenaw [217,813 votes] [150 precincts] [D+47] [+] <-.168>
 - https://electionresults.ewashtenaw.org/electionreporting/nov2020/canvassreport1.html [straight party]
 - https://electionresults.ewashtenaw.org/electionreporting/nov2020/canvassreport2.html [president]
 
-7. Ingham [145,586 votes (214,400 reg.) (67.90%)] [115 precincts] [D65.1] <precinct results NA>
+7. Ingham [145,586 votes (214,400 reg.) (67.90%)] [115 precincts] [D+32] <precinct results NA>
 - https://electionreporting.com/county/cc192a44-77d7-4adc-91a7-afa294442a71/contest/Straight%20Party%20for%20Ingham%20County%20Michigan
 - https://electionreporting.com/county/cc192a44-77d7-4adc-91a7-afa294442a71/contest/President%2FVice%20President
 
-8. Ottawa [168,074 votes] [105 precincts] [R59.8]
+8. Ottawa (can't find good format)
 
-9. Kalamazoo [143,695 votes] [107 precincts] [D58.3] [+]  <-.165>
+9. Kalamazoo [143,695 votes] [107 precincts] [D+19] [+]  <-.165>
 - https://www.kalcounty.com/clerk/elections/details.php?election=November+3%2C+2020+General+Election&contest=10380 [straight party]
 - https://www.kalcounty.com/clerk/elections/details.php?election=November+3%2C+2020+General+Election&contest=9120 [president]
 
-10. Saginaw [104,013 votes (156,856 reg.) (66.31%)] [85 precincts] [D49.4] [+] <-.203>
+10. Saginaw [104,013 votes (156,856 reg.) (66.31%)] [85 precincts] [D+0.3] [+] <-.203>
 - https://electionreporting.com/county/93504286-47ea-4e69-9e2f-5033ae188960/contest/Straight%20Party%20Ticket [straight party]
 - https://electionreporting.com/county/93504286-47ea-4e69-9e2f-5033ae188960/contest/President%20and%20Vice-President%20of%20the%20United%20States [president]
 
-11. Livingston
+11. Livingston (can only find pdf)
 
-12. Muskegon
+12. Muskegon (can only find pdf)
 
-13. St. Clair [92,708 votes (134,248 reg.) (69.06%)] [70 precincts] [R64.3] [+] <-.441>
+13. St. Clair [92,708 votes (134,248 reg.) (69.06%)] [70 precincts] [R+30] [+] <-.441>
 - https://electionreporting.com/county/6540f7df-7c60-4d28-9538-43853cb5f3dd/contest/Straight%20Party%20Ticket [straight party]
 - https://electionreporting.com/county/6540f7df-7c60-4d28-9538-43853cb5f3dd/contest/President%2FVice-President%20of%20the%20United%20States [president]
 
-14. Jackson
+14. Jackson (can only find pdf)
 
-15. Berrien [82,984 votes (134,947 reg.) (61.49%)] [62 precincts] [R52.8] [+] <-.189>
+15. Berrien [82,984 votes (134,947 reg.) (61.49%)] [62 precincts] [R+7] [+] <-.189>
 - https://electionreporting.com/county/3820dff5-a1ed-420c-828b-f9d1ec256f11/contest/Straight%20Party [straight party]
 - https://electionreporting.com/county/3820dff5-a1ed-420c-828b-f9d1ec256f11/contest/President%2FVice%20President [president]
 
-16. Monroe
+16. Monroe (can only find pdf)
 
-17. Calhoun [69,415 votes] [58 precincts] [R54.8] [+] <-.203>
+17. Calhoun [69,415 votes] [58 precincts] [R+11] [+] <-.203>
 - https://elections.calhouncountymi.gov/Nov032020/DetailedResults.html#Straight%20Party%20Ticket [straight party]
 - https://elections.calhouncountymi.gov/Nov032020/DetailedResults.html#Straight%20Party%20Ticket [president]
 
-18. Allegan
+18. Allegan (can't find good results)
 
-19. Bay
+19. Bay (can only find pdf)
 
-20. Eaton
+20. Eaton (can't find good results)
 
 21. Lenawee
 
@@ -69,6 +69,20 @@ The slopes are more pronounced in heavier republican districts because they're d
 24. Midland [49,420 votes (69,861 reg.) (70.74%)] [50 precincts] [R56.3] [-] <0.029>
 - https://electionreporting.com/county/a46d2b31-7e95-45c0-9857-b7905ff1f20c/contest/Straight%20Party [straight party]
 - https://electionreporting.com/county/a46d2b31-7e95-45c0-9857-b7905ff1f20c/contest/President%2FVice%20President [president]
+
+25. Clinton
+
+26. Van Buren [39,311 votes (60,495 reg.) (64.98%)] [33 precincts] [R+12] [+] <-.166>
+- https://electionreporting.com/county/7f5af64a-5a9b-4616-a03c-9ce145e683dd/contest/Straight%20Party%20for%20Van%20Buren%20County%20Michigan [straight party]
+- https://electionreporting.com/county/7f5af64a-5a9b-4616-a03c-9ce145e683dd/contest/President%2FVice%20Pres [president]
+
+27. Isabella
+
+28. Shiawassee
+
+29. Marquette
+
+30. Ionia
 
 # Alphabetical County List
 1. Alcona

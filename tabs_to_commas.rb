@@ -1,8 +1,8 @@
-f = File.open('./counties/04-kent/kent-president.txt')
+f = File.open('./counties/26-van-buren/van-buren-straight-party.txt')
 data = f.read
 data.gsub!(',', '')
 data.gsub!(/\t/, ',')
 
-File.open("./counties/04-kent/kent-president.txt", 'w') do |f|
+File.open("./counties/26-van-buren/van-buren-straight-party.txt", 'w') do |f|
   f.write(data)
 end
