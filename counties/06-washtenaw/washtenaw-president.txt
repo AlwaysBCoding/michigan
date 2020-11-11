@@ -1,0 +1,151 @@
+precinct_name,biden,trump,jorgensen,blankenship,hawkins,de_la_fuente,rej,una
+City of Ann Arbor. Ward 1. Precinct 1,829,102,3,0,1,0,0,1
+City of Ann Arbor. Ward 1. Precinct 2,984,118,9,2,3,0,0,3
+City of Ann Arbor. Ward 1. Precinct 3,648,42,1,0,2,0,0,4
+City of Ann Arbor. Ward 1. Precinct 4,587,48,2,0,2,0,0,2
+City of Ann Arbor. Ward 1. Precinct 5,1057,93,8,0,4,0,0,3
+City of Ann Arbor. Ward 1. Precinct 6,811,66,6,1,2,0,0,2
+City of Ann Arbor. Ward 1. Precinct 7,467,58,5,0,2,0,0,0
+City of Ann Arbor. Ward 1. Precinct 8,1246,134,6,0,2,0,0,4
+City of Ann Arbor. Ward 1. Precinct 9,1150,164,14,4,4,0,0,7
+City of Ann Arbor. Ward 1. Precinct 10,1413,166,6,3,11,3,0,5
+City of Ann Arbor. Ward 1. Precinct 11,765,195,5,0,1,0,0,3
+City of Ann Arbor. Ward 1. Precinct 12,516,55,3,0,1,0,0,1
+City of Ann Arbor. Ward 2. Precinct 1,589,72,8,0,4,1,0,1
+City of Ann Arbor. Ward 2. Precinct 2,735,98,3,1,1,1,0,3
+City of Ann Arbor. Ward 2. Precinct 3,887,97,5,0,0,0,0,3
+City of Ann Arbor. Ward 2. Precinct 4,1216,166,8,0,1,0,0,2
+City of Ann Arbor. Ward 2. Precinct 5,1293,203,10,0,3,0,0,7
+City of Ann Arbor. Ward 2. Precinct 6,1279,221,11,0,1,0,0,4
+City of Ann Arbor. Ward 2. Precinct 7,1436,225,10,0,4,2,0,4
+City of Ann Arbor. Ward 2. Precinct 8,1155,205,7,2,4,0,0,7
+City of Ann Arbor. Ward 2. Precinct 9,1528,266,15,2,5,0,0,6
+City of Ann Arbor. Ward 3. Precinct 1,1245,157,12,0,0,0,0,1
+City of Ann Arbor. Ward 3. Precinct 2,1401,161,6,0,0,2,0,4
+City of Ann Arbor. Ward 3. Precinct 3,1161,87,5,0,1,0,0,3
+City of Ann Arbor. Ward 3. Precinct 4,1161,124,12,0,2,0,0,14
+City of Ann Arbor. Ward 3. Precinct 5,1435,278,17,1,11,0,0,2
+City of Ann Arbor. Ward 3. Precinct 6,1038,166,14,0,3,2,0,2
+City of Ann Arbor. Ward 3. Precinct 7,969,172,11,0,2,0,0,6
+City of Ann Arbor. Ward 3. Precinct 8,1284,218,11,1,7,1,0,5
+City of Ann Arbor. Ward 3. Precinct 9,1321,252,13,0,7,0,0,0
+City of Ann Arbor. Ward 3. Precinct 10,1110,133,10,1,6,0,0,3
+City of Ann Arbor. Ward 4. Precinct 1,764,90,4,0,0,0,0,2
+City of Ann Arbor. Ward 4. Precinct 2,750,50,8,0,3,0,0,2
+City of Ann Arbor. Ward 4. Precinct 3,1339,152,6,0,3,0,0,6
+City of Ann Arbor. Ward 4. Precinct 4,1431,171,20,1,4,0,0,6
+City of Ann Arbor. Ward 4. Precinct 5,1465,168,14,0,10,0,0,7
+City of Ann Arbor. Ward 4. Precinct 6,1415,215,9,3,2,1,0,8
+City of Ann Arbor. Ward 4. Precinct 7,1434,222,13,0,5,2,0,4
+City of Ann Arbor. Ward 4. Precinct 8,1386,184,22,0,11,1,0,1
+City of Ann Arbor. Ward 4. Precinct 9,1072,206,10,0,0,0,0,1
+City of Ann Arbor. Ward 4. Precinct 10,833,186,9,0,1,0,0,3
+City of Ann Arbor. Ward 5. Precinct 1,855,73,5,0,4,0,0,2
+City of Ann Arbor. Ward 5. Precinct 2,1657,109,4,1,5,0,0,4
+City of Ann Arbor. Ward 5. Precinct 3,876,44,1,0,5,0,0,1
+City of Ann Arbor. Ward 5. Precinct 4,1528,88,3,1,3,1,0,3
+City of Ann Arbor. Ward 5. Precinct 5,1528,135,14,2,4,0,0,6
+City of Ann Arbor. Ward 5. Precinct 6,1408,136,7,0,4,0,0,3
+City of Ann Arbor. Ward 5. Precinct 7,919,115,9,0,3,1,0,8
+City of Ann Arbor. Ward 5. Precinct 8,797,149,6,1,4,0,0,2
+City of Ann Arbor. Ward 5. Precinct 9,1505,166,9,1,6,0,0,1
+City of Ann Arbor. Ward 5. Precinct 10,1588,276,16,0,7,1,0,5
+City of Ann Arbor. Ward 5. Precinct 11,1089,67,4,0,4,0,0,1
+City of Ann Arbor. Ward 5. Precinct 12,853,118,1,0,4,0,0,2
+City of Chelsea. Precinct 1,1445,689,20,1,5,1,0,10
+City of Chelsea. Precinct 2,1040,549,8,4,3,1,0,7
+City of Dexter. Precinct 1,613,305,11,0,5,0,0,5
+City of Dexter. Precinct 2,889,342,8,1,2,0,0,4
+City of Dexter. Precinct 3,548,211,12,0,2,0,0,5
+City of Milan. Precinct 1W,1318,1031,52,4,2,2,0,3
+City of Saline. Precinct 1,1269,680,21,2,4,0,0,8
+City of Saline. Precinct 2,1058,572,20,0,4,1,0,5
+City of Saline. Precinct 3,1501,844,28,2,9,3,0,5
+City of Ypsilanti. Ward 1. Precinct 1,921,58,3,1,6,2,0,3
+City of Ypsilanti. Ward 1. Precinct 2,1062,112,13,0,8,0,0,5
+City of Ypsilanti. Ward 1. Precinct 3,733,139,9,1,6,2,0,2
+City of Ypsilanti. Ward 2. Precinct 1,715,127,11,0,3,0,0,1
+City of Ypsilanti. Ward 2. Precinct 2,870,136,5,0,7,1,0,2
+City of Ypsilanti. Ward 2. Precinct 3,725,99,5,0,3,1,0,3
+City of Ypsilanti. Ward 2. Precinct 4,487,49,8,0,3,1,0,0
+City of Ypsilanti. Ward 3. Precinct 1,563,67,7,0,5,0,0,1
+City of Ypsilanti. Ward 3. Precinct 2,827,142,8,2,12,0,0,6
+City of Ypsilanti. Ward 3. Precinct 3,1027,167,9,0,10,1,0,1
+Ann Arbor Township. Precinct 1,1085,498,20,1,3,0,0,9
+Ann Arbor Township. Precinct 2,1343,257,12,0,5,1,0,6
+Augusta Township. Precinct 1,817,805,15,1,3,0,0,3
+Augusta Township. Precinct 2,588,564,13,2,5,0,0,2
+Augusta Township. Precinct 3,674,929,14,2,1,0,0,2
+Bridgewater Township. Precinct 1,430,726,19,1,1,0,0,3
+Dexter Township. Precinct 1,1207,773,19,4,3,1,0,4
+Dexter Township. Precinct 2,910,764,16,0,1,1,0,5
+Dexter Township. Precinct 3,552,478,15,0,1,0,0,1
+Freedom Township. Precinct 1,467,531,18,2,0,1,0,2
+Lima Township. Precinct 1,749,667,16,0,5,1,0,3
+Lima Township. Precinct 2,747,536,8,2,4,3,0,2
+Lodi Township. Precinct 1,841,755,16,5,1,0,0,9
+Lodi Township. Precinct 2,996,762,25,0,2,2,0,3
+Lodi Township. Precinct 3,699,300,12,0,1,0,0,5
+Lyndon Township. Precinct 1,944,899,22,2,5,0,0,4
+Manchester Township. Precinct 1,722,619,21,1,0,1,0,3
+Manchester Township. Precinct 2,677,1057,26,3,5,2,0,1
+Northfield Township. Precinct 1,1168,1032,31,5,12,3,0,10
+Northfield Township. Precinct 2,727,1040,16,1,7,1,0,6
+Northfield Township. Precinct 3,659,714,19,2,6,0,0,2
+Pittsfield Charter Township. Precinct 1,1169,358,20,4,5,0,0,3
+Pittsfield Charter Township. Precinct 2,1062,235,10,1,8,0,0,4
+Pittsfield Charter Township. Precinct 3,1339,283,11,1,8,3,0,9
+Pittsfield Charter Township. Precinct 4,1249,232,10,2,5,2,0,6
+Pittsfield Charter Township. Precinct 5,931,221,7,3,8,0,0,2
+Pittsfield Charter Township. Precinct 6,1340,654,23,2,7,0,0,7
+Pittsfield Charter Township. Precinct 7,1522,374,13,1,3,1,0,8
+Pittsfield Charter Township. Precinct 8,622,344,8,2,1,1,0,3
+Pittsfield Charter Township. Precinct 9,1469,453,6,2,2,0,0,4
+Pittsfield Charter Township. Precinct 10,1595,354,17,1,5,0,0,7
+Pittsfield Charter Township. Precinct 11,1426,688,20,2,0,0,0,8
+Pittsfield Charter Township. Precinct 12,1057,666,20,6,3,1,0,5
+Pittsfield Charter Township. Precinct 13,1172,181,11,2,3,0,0,8
+Salem Township. Precinct 1,582,963,13,0,1,0,0,1
+Salem Township. Precinct 2,700,1071,12,3,4,0,0,1
+Salem Township. Precinct 3,514,676,7,1,1,0,0,2
+Saline Township. Precinct 1,642,768,14,3,2,0,0,5
+Scio Township. Precinct 1,1270,273,9,1,0,2,0,5
+Scio Township. Precinct 2,880,523,19,3,6,1,0,0
+Scio Township. Precinct 3,1150,315,7,2,6,0,0,2
+Scio Township. Precinct 4,980,307,9,0,3,0,0,4
+Scio Township. Precinct 5,723,263,15,1,5,0,0,3
+Scio Township. Precinct 6,1067,237,14,1,3,1,0,5
+Scio Township. Precinct 7,1585,409,14,0,4,1,0,4
+Scio Township. Precinct 8,1327,407,27,1,9,0,0,7
+Sharon Township. Precinct 1,535,755,17,1,2,1,0,1
+Superior Township. Precinct 1,986,466,11,0,3,2,0,4
+Superior Township. Precinct 2,1566,450,20,6,5,1,0,25
+Superior Township. Precinct 3,943,116,9,1,4,0,0,2
+Superior Township. Precinct 4,1330,501,22,1,7,0,0,7
+Superior Township. Precinct 5,1397,896,22,6,7,0,0,4
+Sylvan Township. Precinct 1,1202,1088,30,8,4,2,0,5
+Webster Township. Precinct 1,792,680,12,0,7,1,0,5
+Webster Township. Precinct 2,784,716,10,2,7,2,0,1
+Webster Township. Precinct 3,1138,634,22,0,2,1,0,9
+York Township. Precinct 1,750,964,20,1,2,2,0,6
+York Township. Precinct 2,907,980,26,3,3,1,0,3
+York Township. Precinct 3,758,683,20,1,3,0,0,8
+Ypsilanti Township. Precinct 1,1446,200,14,3,13,0,0,5
+Ypsilanti Township. Precinct 2,1056,294,7,1,8,1,0,9
+Ypsilanti Township. Precinct 3,1017,139,14,1,4,1,0,2
+Ypsilanti Township. Precinct 4,1482,357,12,3,6,2,0,13
+Ypsilanti Township. Precinct 5,958,328,6,2,6,4,0,5
+Ypsilanti Township. Precinct 6,600,304,9,0,6,1,0,2
+Ypsilanti Township. Precinct 7,906,317,13,1,11,0,0,1
+Ypsilanti Township. Precinct 8,825,427,16,1,3,3,0,3
+Ypsilanti Township. Precinct 9,1286,488,16,2,6,1,0,8
+Ypsilanti Township. Precinct 10,873,216,11,2,7,2,0,3
+Ypsilanti Township. Precinct 11,1245,276,7,3,2,2,0,4
+Ypsilanti Township. Precinct 12,1172,284,14,2,6,0,0,8
+Ypsilanti Township. Precinct 13,1459,429,19,4,9,1,0,5
+Ypsilanti Township. Precinct 14,1197,436,19,3,6,0,0,5
+Ypsilanti Township. Precinct 15,959,476,11,4,5,2,0,5
+Ypsilanti Township. Precinct 17,1736,528,19,2,5,0,0,7
+Ypsilanti Township. Precinct 18,1704,628,32,4,11,0,0,7
+Ypsilanti Township. Precinct 19,1744,668,37,0,11,0,0,10
+Ypsilanti Township. Precinct 20,1183,575,22,2,8,3,0,5

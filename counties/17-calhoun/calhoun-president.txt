@@ -1,0 +1,59 @@
+precinct_name,registered_voters,poll_book,voter_turnout,biden,trump,jorgensen,blankenship,hawkins,de_la_fuente,wi1,wi2,wi3,wi4,wi5
+City of Albion Precinct 1,1025,543,52.98%,446,92,4,0,0,0,0,0,0,0,0
+City of Albion Precinct 2,852,410,48.12%,314,90,4,0,1,0,0,0,0,0,0
+City of Albion Precinct 3,1164,652,56.01%,435,194,12,2,2,0,0,0,0,0,0
+City of Albion Precinct 4,790,497,62.91%,306,184,3,1,2,0,0,0,0,0,0
+City of Albion Precinct 5,1139,717,62.95%,445,257,9,0,1,0,0,0,0,0,0
+City of Albion Precinct 6,516,338,65.50%,206,125,3,0,1,0,0,0,0,0,0
+City of Battle Creek Precinct 1,1716,735,42.83%,405,306,17,2,2,0,0,0,0,0,0
+City of Battle Creek Precinct 2,1572,945,60.11%,441,474,22,0,2,0,0,0,0,0,0
+City of Battle Creek Precinct 3,1754,1301,74.17%,553,725,7,0,0,1,0,0,0,0,0
+City of Battle Creek Precinct 4,1490,781,52.42%,388,374,13,3,1,0,0,0,0,0,0
+City of Battle Creek Precinct 5,1826,1417,77.60%,670,719,16,1,0,1,0,0,0,0,0
+City of Battle Creek Precinct 6,1891,1367,72.29%,670,664,17,0,3,0,0,0,0,0,0
+City of Battle Creek Precinct 7,1524,572,37.53%,372,190,5,1,1,1,0,0,0,0,0
+City of Battle Creek Precinct 8,2067,1568,75.86%,720,812,17,3,2,1,0,0,0,0,0
+City of Battle Creek Precinct 9,1632,1075,65.87%,529,528,11,2,3,0,0,0,0,0,0
+City of Battle Creek Precinct 10,2707,1465,54.12%,803,627,17,4,6,0,0,0,0,0,0
+City of Battle Creek Precinct 11,3047,1558,51.13%,829,680,25,7,8,0,0,0,0,0,0
+City of Battle Creek Precinct 12,1801,753,41.81%,615,124,6,1,0,0,0,0,0,0,0
+City of Battle Creek Precinct 13,1889,836,44.26%,463,344,14,3,5,0,0,0,0,0,0
+City of Battle Creek Precinct 15,2138,1474,68.94%,905,528,18,3,5,4,0,0,0,0,0
+City of Battle Creek Precinct 17,2416,1249,51.70%,709,507,17,1,5,2,0,0,0,0,0
+City of Battle Creek Precinct 18,2095,767,36.61%,518,228,9,3,0,2,0,0,0,0,0
+City of Battle Creek Precinct 19,1290,565,43.80%,324,222,10,3,4,1,0,0,0,0,0
+City of Battle Creek Precinct 20,1842,1398,75.90%,588,779,15,1,6,0,0,0,0,0,0
+City of Battle Creek Precinct 21,2367,1100,46.47%,852,232,11,1,1,1,0,0,0,0,0
+City of Battle Creek Precinct 22,1561,861,55.16%,383,454,13,2,2,0,0,0,0,0,0
+City of Battle Creek Precinct 23,1870,1084,57.97%,484,573,16,1,1,2,0,0,0,0,0
+City of Marshall Precinct 1,3048,2020,66.27%,986,965,44,1,7,1,1,0,0,0,0
+City of Marshall Precinct 2,2885,1962,68.01%,991,910,38,6,5,1,0,0,0,0,0
+City of Springfield Precinct 1,1827,1013,55.45%,438,553,18,0,0,0,0,0,0,0,0
+City of Springfield Precinct 2,1797,908,50.53%,464,424,14,2,2,0,0,0,0,0,0
+Albion Township Precinct 1,901,655,72.70%,187,460,5,0,0,0,0,0,0,0,0
+Athens Township Precinct 1,1918,1327,69.19%,354,946,17,3,2,0,0,0,0,0,0
+Bedford Charter Township Precinct 1,2022,1489,73.64%,492,965,19,4,2,0,0,0,0,0,0
+Bedford Charter Township Precinct 2,2821,1704,60.40%,668,990,26,4,5,2,0,0,0,0,0
+Bedford Charter Township Precinct 3,3073,1809,58.87%,882,886,18,2,7,0,0,0,0,0,0
+Burlington Township Precinct 1,1498,1053,70.29%,293,741,10,0,2,1,0,0,0,0,0
+Clarence Township Precinct 1,1609,1201,74.64%,319,856,12,2,3,1,0,0,0,0,0
+Clarendon Township Precinct 1,930,636,68.39%,149,476,5,1,1,0,0,0,0,0,0
+Convis Township Precinct 1,1234,882,71.47%,250,615,8,0,0,1,0,0,0,0,0
+Eckford Township Precinct 1,1037,817,78.78%,184,613,13,3,0,0,0,0,0,0,0
+Emmett Charter Township Precinct 1,2092,1001,47.85%,371,593,24,2,4,0,0,0,0,0,0
+Emmett Charter Township Precinct 2,2367,1725,72.88%,582,1094,32,4,4,1,0,0,0,0,0
+Emmett Charter Township Precinct 3,2271,1364,60.06%,599,727,15,6,2,0,0,0,0,0,0
+Emmett Charter Township Precinct 4,2831,2057,72.66%,724,1285,27,3,5,0,0,0,0,0,0
+Fredonia Township Precinct 1,1435,985,68.64%,310,646,17,1,1,0,0,0,0,0,0
+Homer Township Precinct 1,1992,1218,61.14%,288,911,13,1,0,0,0,0,0,0,0
+Lee Township Precinct 1,863,613,71.03%,146,449,12,0,2,0,0,0,0,0,0
+Leroy Township Precinct 1,1702,1279,75.15%,352,902,14,1,1,0,0,0,0,0,0
+Leroy Township Precinct 2,1520,1170,76.97%,403,747,13,4,0,0,0,0,0,0,0
+Marengo Township Precinct 1,1841,1257,68.28%,398,829,14,4,3,3,0,0,0,0,0
+Marshall Township Precinct 1,2688,2102,78.20%,832,1220,30,2,3,0,0,0,0,0,0
+Newton Township Precinct 1,2355,1723,73.16%,497,1194,16,3,2,2,0,0,0,0,0
+Pennfield Charter Township Precinct 1,2642,1906,72.14%,609,1260,23,4,2,1,0,0,0,0,0
+Pennfield Charter Township Precinct 2,2288,1330,58.13%,623,670,21,3,5,1,0,0,0,0,0
+Pennfield Charter Township Precinct 3,2293,1737,75.75%,593,1106,26,3,2,1,0,0,0,0,0
+Sheridan Township Precinct 1,1422,844,59.35%,254,573,6,2,0,1,0,0,0,0,0
+Tekonsha Township Precinct 1,1295,856,66.10%,258,581,8,1,1,1,2,0,0,0,0
