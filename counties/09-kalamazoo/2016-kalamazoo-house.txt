@@ -1,0 +1,109 @@
+precinct_name,rep,dem,lib,wi
+Alamo #1,552,241,52,0
+Alamo #2A,897,365,68,0
+Brady #1,851,340,87,0
+Brady #2A,784,229,84,0
+Charleston #1A,645,296,85,0
+Climax,808,303,83,0
+Comstock #1A,790,396,112,0
+Comstock #2,492,412,98,0
+Comstock #3,237,204,56,0
+Comstock #4,638,341,87,0
+Comstock #5A,612,293,66,0
+Comstock #6,603,535,75,0
+Comstock #7,256,288,40,0
+Comstock #8,635,419,44,0
+Cooper #1A,465,241,38,0
+Cooper #2A,552,315,54,0
+Cooper #3A,907,634,102,0
+Cooper #4A,1153,490,84,0
+Cooper #5A,185,181,27,0
+Kalamazoo #1,124,104,31,0
+Kalamazoo #2A,331,346,57,0
+Kalamazoo #3,788,931,77,0
+Kalamazoo #4,180,401,24,0
+Kalamazoo #5,477,845,73,0
+Kalamazoo #7,372,562,37,0
+Kalamazoo #8,130,254,22,0
+Kalamazoo #9A,814,723,84,1
+Kalamazoo #10A,367,563,66,0
+Kalamazoo #11,256,402,67,0
+Kalamazoo #12,367,688,72,0
+Oshtemo #1,639,319,50,0
+Oshtemo #2,957,614,91,0
+Oshtemo #3,589,568,35,0
+Oshtemo #4,571,647,62,0
+Oshtemo #5,229,663,57,0
+Oshtemo #6,501,541,37,0
+Oshtemo #7,529,493,52,0
+Oshtemo #8,332,365,40,0
+Oshtemo #9,640,812,63,0
+Oshtemo #10,318,250,45,0
+Pavilion #1,885,418,97,0
+Pavilion #2A,511,222,61,0
+Pavilion #3A,451,303,73,0
+Prairie Ronde #1A,946,346,85,0
+Richland #1,1059,525,123,1
+Richland #2,694,347,106,1
+Richland #3,949,583,143,0
+Ross #1A,932,428,123,0
+Ross #2,1004,432,107,0
+Schoolcraft #1,686,342,72,0
+Schoolcraft #2,489,205,48,0
+Schoolcraft #3,1028,554,108,0
+Schoolcraft #4,585,229,33,0
+Texas #1,961,451,84,0
+Texas #2,972,385,66,0
+Texas #3,590,470,66,0
+Texas #4,1067,621,77,0
+Texas #5A,1107,612,86,0
+Texas #6,1162,513,73,0
+Wakeshma #1A,446,138,38,0
+City of Galesburg,397,238,84,0
+City of Kalamazoo #1,224,677,49,0
+City of Kalamazoo #2,448,1374,79,0
+City of Kalamazoo #3,163,863,63,0
+City of Kalamazoo #4,332,458,36,0
+City of Kalamazoo #5,476,976,96,0
+City of Kalamazoo #6,509,690,45,0
+City of Kalamazoo #7,166,948,55,0
+City of Kalamazoo #8,98,724,29,0
+City of Kalamazoo #9,90,837,17,0
+City of Kalamazoo #10A,552,795,89,0
+City of Kalamazoo #11,127,652,30,0
+City of Kalamazoo #12,523,728,62,0
+City of Kalamazoo #13,165,443,32,0
+City of Kalamazoo #14,184,478,41,0
+City of Kalamazoo #15,296,710,76,0
+City of Kalamazoo #16,519,729,69,0
+City of Kalamazoo #17A,443,598,57,1
+City of Kalamazoo #18,434,589,58,0
+City of Kalamazoo #19,499,826,95,0
+City of Kalamazoo #20,483,1064,63,0
+City of Kalamazoo #21,341,671,26,0
+City of Kalamazoo #22,467,901,66,0
+City of Kalamazoo #23,281,407,29,0
+City of Kalamazoo #24,190,512,42,0
+City of Kalamazoo #25A,491,579,44,0
+City of Kalamazoo #26A,451,738,63,0
+City of Kalamazoo #27,90,479,40,0
+City of Parchment,423,419,63,0
+City of Portage #1,466,507,51,1
+City of Portage #2A,413,403,87,0
+City of Portage #3,755,510,59,2
+City of Portage #4A,662,434,76,0
+City of Portage #5,582,390,75,1
+City of Portage #6,845,465,84,0
+City of Portage #7,797,863,112,0
+City of Portage #8,797,550,70,0
+City of Portage #9,603,456,62,2
+City of Portage #10A,892,548,90,0
+City of Portage #11,803,621,53,2
+City of Portage #12,923,577,71,0
+City of Portage #13,1004,705,127,0
+City of Portage #14,682,513,54,0
+City of Portage #15,652,534,82,0
+City of Portage #16,897,695,79,0
+City of Portage #17,791,477,91,1
+City of Portage #18,709,469,52,0
+City of Portage #19,625,527,66,0
