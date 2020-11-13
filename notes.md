@@ -84,6 +84,9 @@ The slopes are more pronounced in heavier republican districts because they're d
 
 30. Ionia
 
+36. Antrim
+- http://www.antrimcounty.org/elections.asp [All in pdf]
+
 # Alphabetical County List
 1. Alcona
 2. Alger

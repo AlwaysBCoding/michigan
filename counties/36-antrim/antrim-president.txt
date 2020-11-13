@@ -1,0 +1,17 @@
+precinct_name,votes_cast,registered,biden,trump,total_votes
+Banks Township Precinct 1,1129,1417,349,756,1120
+Central Lake Township Precinct 1,1491,2101,549,906,1478
+Chestonia Township Precinct 1,296,450,93,197,293
+Custer Township Precinct 1,776,1127,240,521,775
+Echo Township Precinct 1,602,812,198,392,601
+Elk Rapids Township Precinct,2057,2492,986,1025,2041
+Forest Home Township Precinct 1,1390,1729,610,753,1384
+Helena Township Precinct 1,746,976,306,431,743
+Jordan Township Precinct 1,573,767,183,371,569
+Kearney Township Precinct 1,1240,1743,471,743,1233
+Mancelona Township Precinct 1,1138,2282,276,835,1132
+Mancelona Township Precinct 2,913,1478,247,646,909
+Milton Township Precinct 1,1824,2285,769,1021,1813
+Star Township Precinct 1,635,888,161,462,633
+Torch Lake Township Precinct 1,1006,1228,462,526,999
+Warner Township Precinct 1,228,307,60,163,226

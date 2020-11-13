@@ -1,0 +1,17 @@
+precinct_name,votes_cast,registered,dem,rep,sp_total
+Banks Township Precinct 1,1129,1417,134,520,656
+Central Lake Township Precinct 1,1491,2101,227,536,771
+Chestonia Township Precinct 1,296,450,45,134,179
+Custer Township Precinct 1,776,1127,108,354,469
+Echo Township Precinct 1,602,812,100,230,332
+Elk Rapids Township Precinct 1,2057,2492,408,677,1100
+Forest Home Township Precinct 1,1390,1729,249,497,752
+Helena Township Precinct 1,746,976,136,255,396
+Jordan Township Precinct 1,573,767,75,252,333
+Kearney Township Precinct 1,1240,1743,187,490,680
+Mancelona Township Precinct 1,1138,2282,120,551,692
+Mancelona Township Precinct 2,913,1478,107,399,518
+Milton Township Precinct 1,1824,2285,372,670,1051
+Star Township Precinct 1,635,888,67,299,367
+Torch Lake Township Precinct 1,1006,1228,143,297,445
+Warner Township Precinct 1,228,307,35,106,141
