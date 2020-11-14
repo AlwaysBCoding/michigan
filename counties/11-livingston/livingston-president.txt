@@ -1,0 +1,81 @@
+precinct_name,biden,trump,total_votes
+City of Brighton Precinct 1,671,641,1335
+City of Brighton Precinct 2,546,581,1152
+City of Brighton Precinct 3,691,679,1398
+City of Brighton Precinct 4,509,552,1073
+City of Howell Precinct 1,840,1013,1896
+City of Howell Precinct 2,739,794,1570
+City of Howell Precinct 3,828,1109,1974
+Brighton Charter Township Precinct 1,579,962,1564
+Brighton Charter Township Precinct 2,453,796,1269
+Brighton Charter Township Precinct 3,576,843,1437
+Brighton Charter Township Precinct 4,468,714,1204
+Brighton Charter Township Precinct 5,315,455,781
+Brighton Charter Township Precinct 6,791,1179,1991
+Brighton Charter Township Precinct 7,602,1053,1681
+Brighton Charter Township Precinct 8,389,631,1037
+Brighton Charter Township Precinct 9,899,1372,2299
+Cohoctah Township Precinct 1,601,1548,2179
+Conway Township Precinct 1,581,1601,2210
+Deerfield Township Precinct 1,441,863,1328
+Deerfield Township. Precinct 2,393,1060,1480
+Genoa Charter Township Precinct 1,644,910,1568
+Genoa Charter Township Precinct 2,304,475,791
+Genoa Charter Township Precinct 3,596,840,1466
+Genoa Charter Township Precinct 4,565,596,1180
+Genoa Charter Township Precinct 5,262,578,848
+Genoa Charter Township Precinct 6,736,1283,2037
+Genoa Charter Township Precinct 7,404,581,995
+Genoa Charter Township Precinct 8,505,740,1253
+Genoa Charter Township Precinct 9,455,801,1273
+Genoa Charter Township Precinct 10,451,829,1291
+Genoa Charter Township Precinct 11,202,374,579
+Genoa Charter Township Precinct 13,258,352,616
+Green Oak Charter Township Precinct 1,687,999,1720
+Green Oak Charter Township Precinct 2,586,726,1329
+Green Oak Charter Township Precinct 3,732,870,1634
+Green Oak Charter Township Precinct 4,690,1101,1826
+Green Oak Charter Township Precinct 5,633,955,1612
+Green Oak Charter Township Precinct 6,688,992,1706
+Green Oak Charter Township Precinct 7,323,486,825
+Green Oak Charter Township Precinct 8,589,780,1395
+Green Oak Charter Township Precinct 9,391,556,967
+Hamburg Township Precinct 1,1060,1451,2562
+Hamburg Township Precinct 2,851,982,1859
+Hamburg Township Precinct 3,969,1232,2232
+Hamburg Township Precinct 4,905,1043,1974
+Hamburg Township Precinct 5,726,911,1668
+Hamburg Township Precinct 6,1080,1249,2351
+Hamburg Township Precinct 7,627,724,1371
+Hamburg Township. Precinct 8,539,643,1198
+Handy Township Precinct 1,431,884,1339
+Handy Township Precinct 2,507,857,1384
+Handy Township Precinct 3,580,1261,1868
+Hartland Township Precinct 1,701,1251,1975
+Hartland Township Precinct 2,776,1307,2118
+Hartland Township Precinct 3,788,1461,2278
+Hartland Township Precinct 4,700,1270,2005
+Hartland Township Precinct 5,524,992,1540
+Howell Township Precinct 1,567,987,1572
+Howell Township Precinct 2,609,1170,1816
+Howell Township Precinct 3,506,865,1398
+Iosco Township Precinct 1,275,748,1042
+losco Township Precinct 2,379,936,1341
+Marion Township Precinct 1,613,1319,1958
+Marion Township Precinct 2,809,1405,2255
+Marion Township Precinct 3,504,911,1433
+Marion Township Precinct 4,622,1458,2100
+Oceola Township Precinct 1,685,1264,1980
+Oceola Township Precinct 2,836,1218,2087
+Oceola Township Precinct 3,826,1652,2522
+Oceola Township Precinct 4,484,1116,1627
+Oceola Township Precinct 5,489,763,1266
+Putnam Township Precinct 1,529,607,1155
+Putnam Township Precinct 2,606,1076,1701
+Putnam Township Precinct 3,632,749,1414
+Putnam Township Precinct 4,452,676,1148
+Tyrone Township Precinct 1,701,1155,1880
+Tyrone Township Precinct 2,762,1286,2081
+Tyrone Township Precinct 3,640,1277,1945
+Tyrone Township Precinct 4,582,1222,1843
+Unadilla Township Precinct 1,733,1332,2107

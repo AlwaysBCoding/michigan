@@ -171,3 +171,5 @@ The slopes are more pronounced in heavier republican districts because they're d
 81. Washtenaw
 82. Wayne
 83. Wexford
+
+Regex to capture new line with a digit on next line: $\n([\d]) replace with  $1
