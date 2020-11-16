@@ -1,4 +1,4 @@
-precinct_name,biden,trump,total_votes
+precinct_name,biden,trump,votes_cast
 City of Brighton Precinct 1,671,641,1335
 City of Brighton Precinct 2,546,581,1152
 City of Brighton Precinct 3,691,679,1398

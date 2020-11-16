@@ -1,4 +1,4 @@
-precinct_name,votes_cast,registered,biden,trump,total_votes
+precinct_name,votes_cast,reg,biden,trump,total_votes
 Banks Township Precinct 1,1129,1417,349,756,1120
 Central Lake Township Precinct 1,1491,2101,549,906,1478
 Chestonia Township Precinct 1,296,450,93,197,293

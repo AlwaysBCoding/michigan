@@ -1,4 +1,4 @@
-precinct_name,registered,votes_cast,turnout,biden,trump,jorgensen,blankenship,hawkins,de_la_fuente,wt
+precinct_name,reg,votes_cast,turnout,biden,trump,jorgensen,blankenship,hawkins,de_la_fuente,wt
 Almena Township Precinct 1,2529,2003,79.2%,876,1079,32,3,1,0,6
 Almena Township Precinct 2,1781,1387,77.88%,625,734,14,1,2,0,5
 Antwerp Township Precinct 1,1821,1191,65.4%,538,622,18,1,2,1,5
