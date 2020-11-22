@@ -4,6 +4,8 @@ The slopes are more pronounced in heavier republican districts because they're d
 
 # County By Population
 
+https://mvic.sos.state.mi.us/VoterCount/Index
+
 1. Wayne [-]
 
 2. Oakland (can only find ugly format)
