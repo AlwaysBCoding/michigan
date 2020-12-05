@@ -1,4 +1,4 @@
-precinct_name,registered,votes_cast,turnout,biden,trump,jorgensen,blankenship,hawkins,de_la_fuente,wt
+precinct_name,reg,votes_cast,turnout,biden,trump,jorgensen,blankenship,hawkins,de_la_fuente,wt
 Algonac City Precinct 1,1538,1134,73.73%,350,764,9,1,2,1,0
 Algonac City Precinct 2,1996,1345,67.38%,386,916,24,3,4,1,2
 Berlin Township Precinct 1,2521,1996,79.17%,437,1523,21,2,6,0,1

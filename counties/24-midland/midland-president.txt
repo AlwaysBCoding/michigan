@@ -1,4 +1,4 @@
-precinct_name,registered,votes_cast,turnout,biden,trump,jorgensen,blankenship,hawkins,de_la_fuente,wt
+precinct_name,reg,votes_cast,turnout,biden,trump,jorgensen,blankenship,hawkins,de_la_fuente,wt
 City of Coleman Precinct 1,1042,602,57.77%,207,379,9,2,1,2,0
 City of Midland Ward 1 Precinct 1,1222,758,62.03%,392,348,7,3,3,0,0
 City of Midland Ward 1 Precinct 2,1729,1204,69.64%,632,531,24,2,6,0,3

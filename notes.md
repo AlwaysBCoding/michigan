@@ -4,17 +4,22 @@ The slopes are more pronounced in heavier republican districts because they're d
 
 # County By Population
 
+https://mvic.sos.state.mi.us/VoterCount/Index
+
 1. Wayne [-]
 
 2. Oakland (can only find ugly format)
 
 3. Macomb (can only find ugly format)
+- https://electionresults.macombgov.org/m31/4-bd-print.html
+- https://electionresults.macombgov.org/m31/5-bd-print.html
 
 4. Kent [362,074 votes (501,117 reg.) (72.25%)] [252 precincts] [D+6] [+] <-.179>
 - https://electionreporting.com/county/db3f9865-656b-4704-9429-bd38e726ab42/contest/Straight%20Party [straight party]
 - https://electionreporting.com/county/db3f9865-656b-4704-9429-bd38e726ab42/contest/President%20%2F%20Vice%20Pres. [president]
 
-5. Genesee (can't find good data)
+5. Genesee (not posted yet)
+- https://www.gc4me.com/departments/county_clerks1/precinct_breakdown_reports1.php
 
 6. Washtenaw [217,813 votes] [150 precincts] [D+47] [+] <-.168>
 - https://electionresults.ewashtenaw.org/electionreporting/nov2020/canvassreport1.html [straight party]
@@ -171,3 +176,5 @@ The slopes are more pronounced in heavier republican districts because they're d
 81. Washtenaw
 82. Wayne
 83. Wexford
+
+Regex to capture new line with a digit on next line: $\n([\d]) replace with  $1

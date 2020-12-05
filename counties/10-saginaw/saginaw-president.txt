@@ -1,4 +1,4 @@
-precinct_name,registered,votes_cast,turnout,biden,trump,jorgensen,blankenship,hawkins,de_la_fuente,w1
+precinct_name,reg,votes_cast,turnout,biden,trump,jorgensen,blankenship,hawkins,de_la_fuente,w1
 Albee Township Precinct 1,1662,1121,67.45%,393,707,13,0,1,1,0
 Birch Run Township Precinct 1,2077,1509,72.65%,537,942,17,3,2,1,2
 Birch Run Township Precinct 2,1240,834,67.26%,359,461,5,1,6,0,0

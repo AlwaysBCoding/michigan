@@ -1,0 +1,1116 @@
+precinct_name,biden,trump
+City of Detroit Precinct 1,106,5
+City of Detroit Precinct 2,146,10
+City of Detroit Precinct 3,164,12
+City of Detroit Precinct 4,115,4
+City of Detroit Precinct 5,97,10
+City of Detroit Precinct 6,188,6
+City of Detroit Precinct 7,184,23
+City of Detroit Precinct 8,192,24
+City of Detroit Precinct 9,85,7
+City of Detroit Precinct 10,142,7
+City of Detroit Precinct 11,21,4
+City of Detroit Precinct 12,155,13
+City of Detroit Precinct 13,106,5
+City of Detroit Precinct 14,145,3
+City of Detroit Precinct 15,183,12
+City of Detroit Precinct 16,163,10
+City of Detroit Precinct 17,172,9
+City of Detroit Precinct 18,302,21
+City of Detroit Precinct 19,163,23
+City of Detroit Precinct 20,311,33
+City of Detroit Precinct 21,163,38
+City of Detroit Precinct 22,167,47
+City of Detroit Precinct 23,197,21
+City of Detroit Precinct 24,102,5
+City of Detroit Precinct 25,190,10
+City of Detroit Precinct 26,240,6
+City of Detroit Precinct 27,142,8
+City of Detroit Precinct 28,21,4
+City of Detroit Precinct 29,95,3
+City of Detroit Precinct 30,112,13
+City of Detroit Precinct 31,236,18
+City of Detroit Precinct 32,128,10
+City of Detroit Precinct 33,206,23
+City of Detroit Precinct 34,238,28
+City of Detroit Precinct 35,110,5
+City of Detroit Precinct 36,52,0
+City of Detroit Precinct 37,226,19
+City of Detroit Precinct 38,185,12
+City of Detroit Precinct 39,233,10
+City of Detroit Precinct 40,177,7
+City of Detroit Precinct 41,142,6
+City of Detroit Precinct 42,113,10
+City of Detroit Precinct 43,264,13
+City of Detroit Precinct 44,186,10
+City of Detroit Precinct 45,181,19
+City of Detroit Precinct 46,69,7
+City of Detroit Precinct 47,194,13
+City of Detroit Precinct 48,39,4
+City of Detroit Precinct 49,124,6
+City of Detroit Precinct 50,119,6
+City of Detroit Precinct 51,172,8
+City of Detroit Precinct 52,166,8
+City of Detroit Precinct 53,190,13
+City of Detroit Precinct 54,93,6
+City of Detroit Precinct 55,165,8
+City of Detroit Precinct 56,156,7
+City of Detroit Precinct 57,110,1
+City of Detroit Precinct 58,83,4
+City of Detroit Precinct 59,140,8
+City of Detroit Precinct 60,183,12
+City of Detroit Precinct 61,114,10
+City of Detroit Precinct 62,63,9
+City of Detroit Precinct 63,276,22
+City of Detroit Precinct 64,126,10
+City of Detroit Precinct 65,175,18
+City of Detroit Precinct 66,188,17
+City of Detroit Precinct 67,121,17
+City of Detroit Precinct 68,245,18
+City of Detroit Precinct 69,178,8
+City of Detroit Precinct 70,146,6
+City of Detroit Precinct 71,193,17
+City of Detroit Precinct 72,177,18
+City of Detroit Precinct 73,157,11
+City of Detroit Precinct 74,160,6
+City of Detroit Precinct 75,163,14
+City of Detroit Precinct 76,56,3
+City of Detroit Precinct 77,69,6
+City of Detroit Precinct 78,53,8
+City of Detroit Precinct 79,143,12
+City of Detroit Precinct 80,184,11
+City of Detroit Precinct 81,297,18
+City of Detroit Precinct 82,210,10
+City of Detroit Precinct 83,292,14
+City of Detroit Precinct 84,308,33
+City of Detroit Precinct 85,172,18
+City of Detroit Precinct 86,180,18
+City of Detroit Precinct 87,16,0
+City of Detroit Precinct 88,167,9
+City of Detroit Precinct 89,101,4
+City of Detroit Precinct 90,0,0
+City of Detroit Precinct 91,256,21
+City of Detroit Precinct 92,197,35
+City of Detroit Precinct 93,112,3
+City of Detroit Precinct 94,218,19
+City of Detroit Precinct 95,194,32
+City of Detroit Precinct 96,127,9
+City of Detroit Precinct 97,90,6
+City of Detroit Precinct 98,163,24
+City of Detroit Precinct 99,52,9
+City of Detroit Precinct 100,67,6
+City of Detroit Precinct 101,9,1
+City of Detroit Precinct 102,120,4
+City of Detroit Precinct 103,107,2
+City of Detroit Precinct 104,60,1
+City of Detroit Precinct 105,75,4
+City of Detroit Precinct 106,148,6
+City of Detroit Precinct 107,75,5
+City of Detroit Precinct 108,178,6
+City of Detroit Precinct 109,0,0
+City of Detroit Precinct 110,133,9
+City of Detroit Precinct 111,169,4
+City of Detroit Precinct 112,114,5
+City of Detroit Precinct 113,103,3
+City of Detroit Precinct 114,113,9
+City of Detroit Precinct 115,227,13
+City of Detroit Precinct 116,152,7
+City of Detroit Precinct 117,76,3
+City of Detroit Precinct 118,155,6
+City of Detroit Precinct 119,92,2
+City of Detroit Precinct 120,125,6
+City of Detroit Precinct 121,124,8
+City of Detroit Precinct 122,74,6
+City of Detroit Precinct 123,158,29
+City of Detroit Precinct 124,128,25
+City of Detroit Precinct 125,89,9
+City of Detroit Precinct 126,165,23
+City of Detroit Precinct 127,95,11
+City of Detroit Precinct 128,155,11
+City of Detroit Precinct 129,117,12
+City of Detroit Precinct 130,109,7
+City of Detroit Precinct 131,158,8
+City of Detroit Precinct 132,144,27
+City of Detroit Precinct 133,145,36
+City of Detroit Precinct 134,129,13
+City of Detroit Precinct 135,129,15
+City of Detroit Precinct 136,246,17
+City of Detroit Precinct 137,92,15
+City of Detroit Precinct 138,80,5
+City of Detroit Precinct 139,170,25
+City of Detroit Precinct 140,86,1
+City of Detroit Precinct 141,191,8
+City of Detroit Precinct 142,101,7
+City of Detroit Precinct 143,161,26
+City of Detroit Precinct 144,174,35
+City of Detroit Precinct 145,116,32
+City of Detroit Precinct 146,133,18
+City of Detroit Precinct 147,264,23
+City of Detroit Precinct 148,0,0
+City of Detroit Precinct 149,160,15
+City of Detroit Precinct 150,147,22
+City of Detroit Precinct 151,147,17
+City of Detroit Precinct 152,75,13
+City of Detroit Precinct 153,62,21
+City of Detroit Precinct 154,47,14
+City of Detroit Precinct 155,37,12
+City of Detroit Precinct 156,202,11
+City of Detroit Precinct 157,168,43
+City of Detroit Precinct 158,225,18
+City of Detroit Precinct 159,124,9
+City of Detroit Precinct 160,160,21
+City of Detroit Precinct 161,185,16
+City of Detroit Precinct 162,59,7
+City of Detroit Precinct 163,157,17
+City of Detroit Precinct 164,201,20
+City of Detroit Precinct 165,89,6
+City of Detroit Precinct 166,146,24
+City of Detroit Precinct 167,198,17
+City of Detroit Precinct 168,126,13
+City of Detroit Precinct 169,89,7
+City of Detroit Precinct 170,133,5
+City of Detroit Precinct 171,69,13
+City of Detroit Precinct 172,118,11
+City of Detroit Precinct 173,46,1
+City of Detroit Precinct 174,140,12
+City of Detroit Precinct 175,112,5
+City of Detroit Precinct 176,113,10
+City of Detroit Precinct 177,222,14
+City of Detroit Precinct 178,152,16
+City of Detroit Precinct 179,224,10
+City of Detroit Precinct 180,70,1
+City of Detroit Precinct 181,69,3
+City of Detroit Precinct 182,272,7
+City of Detroit Precinct 183,141,9
+City of Detroit Precinct 184,228,12
+City of Detroit Precinct 185,79,5
+City of Detroit Precinct 186,82,9
+City of Detroit Precinct 187,173,7
+City of Detroit Precinct 188,147,10
+City of Detroit Precinct 189,159,8
+City of Detroit Precinct 190,177,5
+City of Detroit Precinct 191,180,13
+City of Detroit Precinct 192,166,8
+City of Detroit Precinct 193,129,16
+City of Detroit Precinct 194,138,12
+City of Detroit Precinct 195,108,13
+City of Detroit Precinct 196,128,8
+City of Detroit Precinct 197,68,6
+City of Detroit Precinct 198,62,15
+City of Detroit Precinct 199,68,7
+City of Detroit Precinct 200,133,13
+City of Detroit Precinct 201,162,16
+City of Detroit Precinct 202,101,22
+City of Detroit Precinct 203,107,20
+City of Detroit Precinct 204,182,13
+City of Detroit Precinct 205,99,11
+City of Detroit Precinct 206,124,7
+City of Detroit Precinct 207,215,15
+City of Detroit Precinct 208,145,23
+City of Detroit Precinct 209,131,4
+City of Detroit Precinct 210,123,8
+City of Detroit Precinct 211,106,6
+City of Detroit Precinct 212,164,5
+City of Detroit Precinct 213,126,3
+City of Detroit Precinct 214,181,17
+City of Detroit Precinct 215,222,6
+City of Detroit Precinct 216,67,3
+City of Detroit Precinct 217,230,4
+City of Detroit Precinct 218,99,3
+City of Detroit Precinct 219,103,5
+City of Detroit Precinct 220,160,17
+City of Detroit Precinct 221,176,6
+City of Detroit Precinct 222,86,7
+City of Detroit Precinct 223,198,10
+City of Detroit Precinct 224,77,4
+City of Detroit Precinct 225,253,14
+City of Detroit Precinct 226,104,9
+City of Detroit Precinct 227,178,9
+City of Detroit Precinct 228,140,17
+City of Detroit Precinct 229,183,15
+City of Detroit Precinct 230,193,10
+City of Detroit Precinct 231,176,7
+City of Detroit Precinct 232,217,13
+City of Detroit Precinct 233,224,7
+City of Detroit Precinct 234,170,16
+City of Detroit Precinct 235,110,10
+City of Detroit Precinct 236,219,15
+City of Detroit Precinct 237,220,17
+City of Detroit Precinct 238,156,16
+City of Detroit Precinct 239,157,4
+City of Detroit Precinct 240,159,17
+City of Detroit Precinct 241,174,4
+City of Detroit Precinct 242,199,13
+City of Detroit Precinct 243,85,8
+City of Detroit Precinct 244,186,13
+City of Detroit Precinct 245,201,10
+City of Detroit Precinct 246,201,12
+City of Detroit Precinct 247,150,6
+City of Detroit Precinct 248,112,5
+City of Detroit Precinct 249,199,11
+City of Detroit Precinct 250,216,9
+City of Detroit Precinct 251,135,7
+City of Detroit Precinct 252,126,5
+City of Detroit Precinct 253,146,4
+City of Detroit Precinct 254,220,13
+City of Detroit Precinct 255,96,8
+City of Detroit Precinct 256,160,13
+City of Detroit Precinct 257,232,12
+City of Detroit Precinct 258,197,21
+City of Detroit Precinct 259,215,5
+City of Detroit Precinct 260,145,19
+City of Detroit Precinct 261,117,28
+City of Detroit Precinct 262,121,18
+City of Detroit Precinct 263,209,13
+City of Detroit Precinct 264,155,25
+City of Detroit Precinct 265,244,26
+City of Detroit Precinct 266,85,7
+City of Detroit Precinct 267,108,4
+City of Detroit Precinct 268,112,8
+City of Detroit Precinct 269,69,7
+City of Detroit Precinct 270,53,2
+City of Detroit Precinct 271,210,10
+City of Detroit Precinct 272,93,6
+City of Detroit Precinct 273,87,7
+City of Detroit Precinct 274,124,13
+City of Detroit Precinct 275,140,6
+City of Detroit Precinct 276,275,18
+City of Detroit Precinct 277,101,5
+City of Detroit Precinct 278,154,8
+City of Detroit Precinct 279,155,11
+City of Detroit Precinct 280,187,9
+City of Detroit Precinct 281,222,16
+City of Detroit Precinct 282,218,9
+City of Detroit Precinct 283,101,5
+City of Detroit Precinct 284,158,7
+City of Detroit Precinct 285,217,23
+City of Detroit Precinct 286,209,23
+City of Detroit Precinct 287,266,16
+City of Detroit Precinct 288,231,19
+City of Detroit Precinct 289,166,12
+City of Detroit Precinct 290,134,6
+City of Detroit Precinct 291,192,6
+City of Detroit Precinct 292,200,6
+City of Detroit Precinct 293,167,15
+City of Detroit Precinct 294,196,16
+City of Detroit Precinct 295,147,13
+City of Detroit Precinct 296,148,7
+City of Detroit Precinct 297,216,15
+City of Detroit Precinct 298,266,48
+City of Detroit Precinct 299,97,7
+City of Detroit Precinct 300,152,36
+City of Detroit Precinct 301,102,19
+City of Detroit Precinct 302,119,11
+City of Detroit Precinct 303,126,24
+City of Detroit Precinct 304,102,10
+City of Detroit Precinct 305,188,11
+City of Detroit Precinct 306,265,42
+City of Detroit Precinct 307,159,10
+City of Detroit Precinct 308,179,18
+City of Detroit Precinct 309,147,14
+City of Detroit Precinct 310,144,18
+City of Detroit Precinct 311,264,14
+City of Detroit Precinct 312,253,17
+City of Detroit Precinct 313,107,5
+City of Detroit Precinct 314,150,3
+City of Detroit Precinct 315,272,12
+City of Detroit Precinct 316,204,17
+City of Detroit Precinct 317,163,5
+City of Detroit Precinct 318,114,8
+City of Detroit Precinct 319,167,7
+City of Detroit Precinct 320,142,11
+City of Detroit Precinct 321,199,7
+City of Detroit Precinct 322,64,5
+City of Detroit Precinct 323,205,9
+City of Detroit Precinct 324,166,15
+City of Detroit Precinct 325,167,15
+City of Detroit Precinct 326,117,7
+City of Detroit Precinct 327,173,9
+City of Detroit Precinct 328,192,13
+City of Detroit Precinct 329,159,10
+City of Detroit Precinct 330,350,15
+City of Detroit Precinct 331,171,18
+City of Detroit Precinct 332,151,8
+City of Detroit Precinct 333,158,6
+City of Detroit Precinct 334,152,9
+City of Detroit Precinct 335,213,21
+City of Detroit Precinct 336,207,31
+City of Detroit Precinct 337,184,34
+City of Detroit Precinct 338,222,57
+City of Detroit Precinct 339,167,21
+City of Detroit Precinct 340,132,18
+City of Detroit Precinct 341,281,14
+City of Detroit Precinct 342,232,50
+City of Detroit Precinct 343,301,27
+City of Detroit Precinct 344,260,15
+City of Detroit Precinct 345,267,17
+City of Detroit Precinct 346,197,11
+City of Detroit Precinct 347,242,13
+City of Detroit Precinct 348,146,14
+City of Detroit Precinct 349,109,6
+City of Detroit Precinct 350,55,11
+City of Detroit Precinct 351,133,11
+City of Detroit Precinct 352,272,24
+City of Detroit Precinct 353,56,10
+City of Detroit Precinct 354,178,13
+City of Detroit Precinct 355,325,44
+City of Detroit Precinct 356,212,9
+City of Detroit Precinct 357,108,6
+City of Detroit Precinct 358,132,2
+City of Detroit Precinct 359,193,7
+City of Detroit Precinct 360,200,17
+City of Detroit Precinct 361,212,18
+City of Detroit Precinct 362,101,9
+City of Detroit Precinct 363,250,9
+City of Detroit Precinct 364,97,5
+City of Detroit Precinct 365,126,6
+City of Detroit Precinct 366,129,8
+City of Detroit Precinct 367,153,6
+City of Detroit Precinct 368,179,11
+City of Detroit Precinct 369,257,13
+City of Detroit Precinct 370,151,5
+City of Detroit Precinct 371,172,10
+City of Detroit Precinct 372,88,10
+City of Detroit Precinct 373,165,9
+City of Detroit Precinct 374,186,9
+City of Detroit Precinct 375,219,36
+City of Detroit Precinct 376,176,38
+City of Detroit Precinct 377,177,50
+City of Detroit Precinct 378,180,8
+City of Detroit Precinct 379,273,19
+City of Detroit Precinct 380,154,21
+City of Detroit Precinct 381,152,13
+City of Detroit Precinct 382,102,12
+City of Detroit Precinct 383,175,13
+City of Detroit Precinct 384,239,21
+City of Detroit Precinct 385,125,9
+City of Detroit Precinct 386,219,7
+City of Detroit Precinct 387,144,10
+City of Detroit Precinct 388,88,6
+City of Detroit Precinct 389,199,12
+City of Detroit Precinct 390,83,1
+City of Detroit Precinct 391,71,6
+City of Detroit Precinct 392,168,9
+City of Detroit Precinct 393,157,7
+City of Detroit Precinct 394,164,13
+City of Detroit Precinct 395,149,9
+City of Detroit Precinct 396,112,5
+City of Detroit Precinct 397,147,7
+City of Detroit Precinct 398,193,13
+City of Detroit Precinct 399,169,11
+City of Detroit Precinct 400,155,6
+City of Detroit Precinct 401,140,8
+City of Detroit Precinct 402,128,6
+City of Detroit Precinct 403,184,16
+City of Detroit Precinct 404,126,6
+City of Detroit Precinct 405,192,6
+City of Detroit Precinct 406,119,7
+City of Detroit Precinct 407,105,8
+City of Detroit Precinct 408,201,10
+City of Detroit Precinct 409,160,10
+City of Detroit Precinct 410,202,11
+City of Detroit Precinct 411,112,9
+City of Detroit Precinct 412,92,4
+City of Detroit Precinct 413,292,15
+City of Detroit Precinct 414,118,6
+City of Detroit Precinct 415,195,10
+City of Detroit Precinct 416,120,7
+City of Detroit Precinct 417,115,5
+City of Detroit Precinct 418,202,7
+City of Detroit Precinct 419,104,4
+City of Detroit Precinct 420,122,14
+City of Detroit Precinct 421,113,6
+City of Detroit Precinct 422,190,18
+City of Detroit Precinct 423,163,34
+City of Detroit Precinct 424,224,76
+City of Detroit Precinct 425,271,87
+City of Detroit Precinct 426,88,6
+City of Detroit Precinct 427,182,17
+City of Detroit Precinct 428,243,18
+City of Detroit Precinct 429,142,10
+City of Detroit Precinct 430,82,5
+City of Detroit Precinct 431,135,8
+City of Detroit Precinct 432,159,12
+City of Detroit Precinct 433,117,12
+City of Detroit Precinct 434,119,8
+City of Detroit Precinct 435,68,5
+City of Detroit Precinct 436,142,24
+City of Detroit Precinct 437,153,5
+City of Detroit Precinct 438,104,3
+City of Detroit Precinct 439,113,7
+City of Detroit Precinct 440,40,2
+City of Detroit Precinct 441,4,2
+City of Detroit Precinct 442,78,3
+City of Detroit Precinct 443,14,0
+City of Detroit Precinct 444,111,6
+City of Detroit Precinct 445,95,9
+City of Detroit Precinct 446,121,6
+City of Detroit Precinct 447,210,13
+City of Detroit Precinct 448,104,2
+City of Detroit Precinct 449,174,12
+City of Detroit Precinct 450,7,1
+City of Detroit Precinct 451,89,3
+City of Detroit Precinct 452,101,15
+City of Detroit Precinct 453,94,5
+City of Detroit Precinct 454,0,0
+City of Detroit Precinct 455,78,2
+City of Detroit Precinct 456,47,2
+City of Detroit Precinct 457,100,5
+City of Detroit Precinct 458,5,0
+City of Detroit Precinct 459,0,0
+City of Detroit Precinct 460,188,36
+City of Detroit Precinct 461,154,35
+City of Detroit Precinct 462,126,14
+City of Detroit Precinct 463,81,24
+City of Detroit Precinct 464,190,37
+City of Detroit Precinct 465,50,5
+City of Detroit Precinct 466,275,24
+City of Detroit Precinct 467,102,7
+City of Detroit Precinct 468,120,9
+City of Detroit Precinct 469,90,0
+City of Detroit Precinct 470,182,68
+City of Detroit Precinct 471,7,11
+City of Detroit Precinct 472,153,56
+City of Detroit Precinct 473,181,61
+City of Detroit Precinct 474,70,35
+City of Detroit Precinct 475,152,51
+City of Detroit Precinct 476,172,39
+City of Detroit Precinct 477,231,86
+City of Detroit Precinct 478,41,21
+City of Detroit Precinct 479,100,29
+City of Detroit Precinct 480,177,70
+City of Detroit Precinct 481,238,92
+City of Detroit Precinct 482,173,14
+City of Detroit Precinct 483,207,15
+City of Detroit Precinct 484,178,19
+City of Detroit Precinct 485,214,9
+City of Detroit Precinct 486,56,5
+City of Detroit Precinct 487,69,23
+City of Detroit Precinct 488,130,67
+City of Detroit Precinct 489,72,37
+City of Detroit Precinct 490,22,3
+City of Detroit Precinct 491,183,11
+City of Detroit Precinct 492,125,7
+City of Detroit Precinct 493,96,7
+City of Detroit Precinct 494,48,2
+City of Detroit Precinct 495,91,4
+City of Detroit Precinct 496,105,16
+City of Detroit Precinct 497,163,4
+City of Detroit Precinct 498,123,12
+City of Detroit Precinct 499,103,24
+City of Detroit Precinct 500,122,23
+City of Detroit Precinct 501,152,14
+City of Detroit Precinct 502,150,11
+City of Detroit Precinct 503,22,0
+City of Allen Park Precinct 1,589,432
+City of Allen Park Precinct 2,652,638
+City of Allen Park Precinct 3,577,575
+City of Allen Park Precinct 4,425,430
+City of Allen Park Precinct 5,754,807
+City of Allen Park Precinct 7,643,612
+City of Allen Park Precinct 8,560,544
+City of Allen Park Precinct 9,769,727
+City of Allen Park Precinct 10,421,396
+City of Allen Park Precinct 11,629,673
+City of Allen Park Precinct 12,464,403
+City of Allen Park Precinct 13,449,547
+City of Allen Park Precinct 14,594,604
+City of Allen Park Precinct 15,486,482
+City of Allen Park Precinct 16,402,490
+City of Belleville Precinct 1,638,482
+City of Belleville Precinct 2,686,413
+Charter Township of Brownstown Precinct 1,1109,1019
+Charter Township of Brownstown Precinct 2,852,617
+Charter Township of Brownstown Precinct 3,1031,720
+Charter Township of Brownstown Precinct 4,720,715
+Charter Township of Brownstown Precinct 5,710,569
+Charter Township of Brownstown Precinct 6,848,887
+Charter Township of Brownstown Precinct 7,596,813
+Charter Township of Brownstown Precinct 8,739,877
+Charter Township of Brownstown Precinct 9,1022,790
+Charter Township of Brownstown Precinct 10,970,960
+Charter Township of Brownstown Precinct 11,475,686
+Charter Township of Brownstown Precinct 12,540,560
+Charter Township of Canton Precinct 1,1003,611
+Charter Township of Canton Precinct 2,872,627
+Charter Township of Canton Precinct 3,1046,596
+Charter Township of Canton Precinct 4,671,573
+Charter Township of Canton Precinct 5,1036,591
+Charter Township of Canton Precinct 6,653,266
+Charter Township of Canton Precinct 7,936,754
+Charter Township of Canton Precinct 8,1084,837
+Charter Township of Canton Precinct 9,1068,676
+Charter Township of Canton Precinct 10,700,356
+Charter Township of Canton Precinct 11,961,685
+Charter Township of Canton Precinct 12,617,443
+Charter Township of Canton Precinct 13,945,640
+Charter Township of Canton Precinct 14,1024,690
+Charter Township of Canton Precinct 15,452,292
+Charter Township of Canton Precinct 16,906,564
+Charter Township of Canton Precinct 17,823,642
+Charter Township of Canton Precinct 18,951,538
+Charter Township of Canton Precinct 19,887,612
+Charter Township of Canton Precinct 20,844,468
+Charter Township of Canton Precinct 21,751,568
+Charter Township of Canton Precinct 22,877,651
+Charter Township of Canton Precinct 23,756,514
+Charter Township of Canton Precinct 24,821,650
+Charter Township of Canton Precinct 25,893,624
+Charter Township of Canton Precinct 26,963,668
+Charter Township of Canton Precinct 27,873,427
+Charter Township of Canton Precinct 28,809,361
+Charter Township of Canton Precinct 29,908,265
+Charter Township of Canton Precinct 30,946,481
+Charter Township of Canton Precinct 31,843,366
+Charter Township of Canton Precinct 32,550,143
+Charter Township of Canton Precinct 33,1089,735
+Charter Township of Canton Precinct 34,1118,524
+Charter Township of Canton Precinct 35,935,605
+Charter Township of Canton Precinct 36,983,441
+Charter Township of Canton Precinct 37,1036,566
+Charter Township of Canton Precinct 38,1040,609
+Charter Township of Canton Precinct 39,686,463
+Charter Township of Canton Precinct 40,708,384
+City of Dearborn Precinct 1,717,137
+City of Dearborn Precinct 2,678,131
+City of Dearborn Precinct 3,960,187
+City of Dearborn Precinct 4,493,104
+City of Dearborn Precinct 5,532,125
+City of Dearborn Precinct 6,753,148
+City of Dearborn Precinct 7,943,181
+City of Dearborn Precinct 8,617,129
+City of Dearborn Precinct 9,655,130
+City of Dearborn Precinct 10,583,142
+City of Dearborn Precinct 11,559,125
+City of Dearborn Precinct 12,649,149
+City of Dearborn Precinct 13,377,171
+City of Dearborn Precinct 15,733,173
+City of Dearborn Precinct 16,682,175
+City of Dearborn Precinct 17,850,260
+City of Dearborn Precinct 18,1051,214
+City of Dearborn Precinct 19,657,128
+City of Dearborn Precinct 20,496,61
+City of Dearborn Precinct 21,678,81
+City of Dearborn Precinct 22,465,143
+City of Dearborn Precinct 23,533,171
+City of Dearborn Precinct 24,535,263
+City of Dearborn Precinct 25,785,486
+City of Dearborn Precinct 26,706,465
+City of Dearborn Precinct 27,710,431
+City of Dearborn Precinct 28,363,298
+City of Dearborn Precinct 29,447,254
+City of Dearborn Precinct 30,366,275
+City of Dearborn Precinct 31,767,394
+City of Dearborn Precinct 32,617,361
+City of Dearborn Precinct 33,702,379
+City of Dearborn Precinct 34,684,359
+City of Dearborn Precinct 35,536,280
+City of Dearborn Precinct 36,506,306
+City of Dearborn Precinct 37,697,446
+City of Dearborn Precinct 38,714,489
+City of Dearborn Precinct 40,574,289
+City of Dearborn Precinct 41,644,486
+City of Dearborn Precinct 42,587,314
+City of Dearborn Precinct 43,645,351
+City of Dearborn Precinct 44,772,436
+City of Dearborn Precinct 45,742,474
+City of Dearborn Precinct 46,701,441
+City of Dearborn Precinct 47,506,367
+City of Dearborn Precinct 48,433,383
+City of Dearborn Precinct 49,678,546
+City of Dearborn Precinct 50,641,401
+City of Dearborn Heights Precinct 1,841,202
+City of Dearborn Heights Precinct 2,689,297
+City of Dearborn Heights Precinct 3,600,134
+City of Dearborn Heights Precinct 4,733,185
+City of Dearborn Heights Precinct 5,586,283
+City of Dearborn Heights Precinct 6,628,428
+City of Dearborn Heights Precinct 7,473,338
+City of Dearborn Heights Precinct 8,685,403
+City of Dearborn Heights Precinct 9,458,222
+City of Dearborn Heights Precinct 10,423,285
+City of Dearborn Heights Precinct 11,937,303
+City of Dearborn Heights Precinct 12,983,359
+City of Dearborn Heights Precinct 13,741,401
+City of Dearborn Heights Precinct 14,437,302
+City of Dearborn Heights Precinct 15,414,270
+City of Dearborn Heights Precinct 16,613,404
+City of Dearborn Heights Precinct 17,535,326
+City of Dearborn Heights Precinct 18,654,285
+City of Dearborn Heights Precinct 19,491,246
+City of Dearborn Heights Precinct 20,393,245
+City of Dearborn Heights Precinct 21,646,477
+City of Dearborn Heights Precinct 22,581,450
+City of Dearborn Heights Precinct 23,605,592
+City of Dearborn Heights Precinct 24,592,568
+City of Dearborn Heights Precinct 25,726,679
+City of Dearborn Heights Precinct 26,583,575
+City of Dearborn Heights Precinct 27,576,490
+City of Ecorse Precinct 1,564,279
+City of Ecorse Precinct 2,937,194
+City of Ecorse Precinct 3,263,153
+City of Ecorse Precinct 4,960,33
+City of Flat Rock Precinct 1,543,708
+City of Flat Rock Precinct 2,415,539
+City of Flat Rock Precinct 3,517,615
+City of Flat Rock Precinct 4,465,564
+City of Flat Rock Precinct 5,460,651
+City of Garden City Precinct 1,872,1021
+City of Garden City Precinct 2,685,777
+City of Garden City Precinct 3,845,876
+City of Garden City Precinct 4,384,495
+City of Garden City Precinct 5,458,578
+City of Garden City Precinct 6,636,873
+City of Garden City Precinct 7,721,826
+City of Garden City Precinct 8,993,1073
+City of Garden City Precinct 9,701,710
+City of Garden City Precinct 10,628,700
+City of Gibraltar Precinct 1,544,816
+City of Gibraltar Precinct 2,586,913
+Township of Grosse Ile Precinct 1,831,1082
+Township of Grosse Ile Precinct 2,740,1144
+Township of Grosse Ile Precinct 3,705,1073
+Township of Grosse Ile Precinct 4,876,1394
+City of Grosse Pointe Precinct 1,1055,723
+City of Grosse Pointe Precinct 2,1234,1032
+City of Grosse Pointe Farms Precinct 1,476,585
+City of Grosse Pointe Farms Precinct 2,942,868
+City of Grosse Pointe Farms Precinct 3,656,945
+City of Grosse Pointe Farms Precinct 4,584,568
+City of Grosse Pointe Farms Precinct 5,1046,748
+City of Grosse Pointe Park Precinct 1,903,439
+City of Grosse Pointe Park Precinct 2,848,605
+City of Grosse Pointe Park Precinct 3,503,177
+City of Grosse Pointe Park Precinct 4,739,474
+City of Grosse Pointe Park Precinct 5,550,208
+City of Grosse Pointe Park Precinct 6,821,447
+City of Grosse Pointe Park Precinct 7,807,498
+Village of Grosse Pointe Shores A Michigan City Precinct 1,387,853
+Village of Grosse Pointe Shores A Michigan City Precinct 2,327,491
+City of Grosse Pointe Woods Precinct 1,1132,1260
+City of Grosse Pointe Woods Precinct 2,1090,867
+City of Grosse Pointe Woods Precinct 3,1094,876
+City of Grosse Pointe Woods Precinct 4,1003,558
+City of Grosse Pointe Woods Precinct 5,979,760
+City of Grosse Pointe Woods Precinct 6,908,1212
+City of Hamtramck Precinct 1,688,86
+City of Hamtramck Precinct 2,1263,188
+City of Hamtramck Precinct 3,986,218
+City of Hamtramck Precinct 4,1721,242
+City of Hamtramck Precinct 5,622,145
+City of Hamtramck Precinct 6,569,70
+City of Hamtramck Precinct 7,779,93
+City of Harper Woods Precinct 1,932,118
+City of Harper Woods Precinct 2,953,170
+City of Harper Woods Precinct 3,1151,225
+City of Harper Woods Precinct 4,1010,225
+City of Harper Woods Precinct 5,1381,341
+City of Harper Woods Precinct 6,1240,309
+City of Highland Park Precinct 1,610,20
+City of Highland Park Precinct 2,679,32
+City of Highland Park Precinct 3,870,39
+City of Highland Park Precinct 4,579,21
+City of Highland Park Precinct 5,436,29
+City of Highland Park Precinct 6,545,20
+Charter Township of Huron Precinct 1,662,1234
+Charter Township of Huron Precinct 2,733,1282
+Charter Township of Huron Precinct 3,683,927
+Charter Township of Huron Precinct 4,629,1010
+Charter Township of Huron Precinct 5,538,1005
+Charter Township of Huron Precinct 6,311,425
+City of Inkster District 1 Precinct 1,704,37
+City of Inkster District 1 Precinct 2,451,33
+City of Inkster District 2 Precinct 1,950,91
+City of Inkster District 2 Precinct 2,978,75
+City of Inkster District 3 Precinct 1,876,53
+City of Inkster District 3 Precinct 2,861,54
+City of Inkster District 4 Precinct 1,1032,192
+City of Inkster District 4 Precinct 2,845,122
+City of Inkster District 5 Precinct 1,1166,87
+City of Inkster District 6 Precinct 1,781,85
+City of Inkster District 6 Precinct 2,771,112
+City of Lincoln Park Precinct 2,1095,521
+City of Lincoln Park Precinct 4,600,401
+City of Lincoln Park Precinct 6,763,530
+City of Lincoln Park Precinct 8,750,551
+City of Lincoln Park Precinct 10,835,600
+City of Lincoln Park Precinct 12,840,606
+City of Lincoln Park Precinct 14,811,634
+City of Lincoln Park Precinct 16,1029,810
+City of Lincoln Park Precinct 18,1049,863
+City of Lincoln Park Precinct 20,654,534
+City of Lincoln Park Precinct 22,596,555
+City of Lincoln Park Precinct 24,458,430
+City of Livonia Precinct 1A,1046,769
+City of Livonia Precinct 1B,454,361
+City of Livonia Precinct 2A,848,688
+City of Livonia Precinct 3A,617,531
+City of Livonia Precinct 3B,905,941
+City of Livonia Precinct 4A,1067,1078
+City of Livonia Precinct 7A,802,854
+City of Livonia Precinct 8A,532,772
+City of Livonia Precinct 8B,561,616
+City of Livonia Precinct 9A,899,959
+City of Livonia Precinct 10A,631,662
+City of Livonia Precinct 11A,933,850
+City of Livonia Precinct 12A,830,622
+City of Livonia Precinct 13A,889,681
+City of Livonia Precinct 14A,884,808
+City of Livonia Precinct 15A,703,806
+City of Livonia Precinct 16A,639,797
+City of Livonia Precinct 16B,493,525
+City of Livonia Precinct 17A,719,760
+City of Livonia Precinct 17B,624,671
+City of Livonia Precinct 18A,758,941
+City of Livonia Precinct 19A,642,731
+City of Livonia Precinct 19B,781,837
+City of Livonia Precinct 20A,810,893
+City of Livonia Precinct 21A,785,754
+City of Livonia Precinct 22A,799,745
+City of Livonia Precinct 22B,614,624
+City of Livonia Precinct 23A,715,627
+City of Livonia Precinct 23B,461,548
+City of Livonia Precinct 24A,826,594
+City of Livonia Precinct 24B,736,604
+City of Livonia Precinct 25A,480,382
+City of Livonia Precinct 31A,758,723
+City of Livonia Precinct 31B,713,645
+City of Livonia Precinct 32A,685,812
+City of Livonia Precinct 33A,905,936
+City of Livonia Precinct 34A,1003,766
+City of Livonia Precinct 34B,806,699
+City of Livonia Precinct 34C,674,564
+City of Livonia Precinct 35A,598,584
+City of Livonia Precinct 35B,487,378
+City of Livonia Precinct 35C,436,375
+City of Livonia Precinct 36A,607,469
+City of Livonia Precinct 36B,634,638
+City of Melvindale Precinct 1,708,306
+City of Melvindale Precinct 2,529,357
+City of Melvindale Precinct 3,505,272
+City of Melvindale Precinct 4,531,259
+City of Melvindale Precinct 5,549,331
+City of Northville Precinct 1,1151,888
+Charter Township of Northville Precinct 1,581,552
+Charter Township of Northville Precinct 2,788,760
+Charter Township of Northville Precinct 3,983,867
+Charter Township of Northville Precinct 4,974,1047
+Charter Township of Northville Precinct 5,869,778
+Charter Township of Northville Precinct 6,1120,1082
+Charter Township of Northville Precinct 7,961,911
+Charter Township of Northville Precinct 8,1042,851
+Charter Township of Northville Precinct 9,962,625
+Charter Township of Northville Precinct 10,559,317
+Charter Township of Northville Precinct 11,1180,825
+Charter Township of Northville Precinct 12,982,940
+City of Plymouth Precinct 1,1064,727
+City of Plymouth Precinct 2,695,344
+City of Plymouth Precinct 3,1189,809
+City of Plymouth Precinct 4,815,601
+Charter Township of Plymouth Precinct 1,886,770
+Charter Township of Plymouth Precinct 2,569,516
+Charter Township of Plymouth Precinct 3,964,784
+Charter Township of Plymouth Precinct 4,757,644
+Charter Township of Plymouth Precinct 5,714,627
+Charter Township of Plymouth Precinct 6,974,779
+Charter Township of Plymouth Precinct 7,883,890
+Charter Township of Plymouth Precinct 8,806,759
+Charter Township of Plymouth Precinct 9,709,764
+Charter Township of Plymouth Precinct 10,948,1089
+Charter Township of Plymouth Precinct 11,903,1016
+Charter Township of Plymouth Precinct 12,830,748
+Charter Township of Redford Precinct 1,715,319
+Charter Township of Redford Precinct 2,759,256
+Charter Township of Redford Precinct 3,852,466
+Charter Township of Redford Precinct 4,184,97
+Charter Township of Redford Precinct 5,743,374
+Charter Township of Redford Precinct 6,690,370
+Charter Township of Redford Precinct 7,1352,375
+Charter Township of Redford Precinct 8,1265,712
+Charter Township of Redford Precinct 9,851,278
+Charter Township of Redford Precinct 10,713,455
+Charter Township of Redford Precinct 11,1101,336
+Charter Township of Redford Precinct 12,1269,443
+Charter Township of Redford Precinct 13,980,321
+Charter Township of Redford Precinct 14,1113,217
+Charter Township of Redford Precinct 15,613,292
+Charter Township of Redford Precinct 16,1509,176
+Charter Township of Redford Precinct 17,1319,577
+Charter Township of Redford Precinct 18,1264,249
+Charter Township of Redford Precinct 19,1180,421
+Charter Township of Redford Precinct 20,1610,291
+City of River Rouge Precinct 1,434,159
+City of River Rouge Precinct 2,408,165
+City of River Rouge Precinct 3,328,194
+City of River Rouge Precinct 4,691,22
+City of River Rouge Precinct 5,533,19
+City of Riverview Precinct 1,1025,1056
+City of Riverview Precinct 2,836,794
+City of Riverview Precinct 3,664,750
+City of Riverview Precinct 4,921,869
+City of Rockwood Precinct 1,316,356
+City of Rockwood Precinct 2,458,702
+City of Romulus Precinct 1,628,418
+City of Romulus Precinct 2,711,278
+City of Romulus Precinct 3,671,84
+City of Romulus Precinct 4,687,350
+City of Romulus Precinct 5,608,403
+City of Romulus Precinct 6,536,270
+City of Romulus Precinct 7,1122,168
+City of Romulus Precinct 8,1343,145
+City of Romulus Precinct 9,338,323
+City of Romulus Precinct 10,861,266
+City of Romulus Precinct 11,385,665
+City of Romulus Precinct 12,835,422
+City of Southgate Precinct 1,572,636
+City of Southgate Precinct 2,667,581
+City of Southgate Precinct 3,853,881
+City of Southgate Precinct 4,852,657
+City of Southgate Precinct 5,572,530
+City of Southgate Precinct 6,954,914
+City of Southgate Precinct 7,742,619
+City of Southgate Precinct 8,642,691
+City of Southgate Precinct 9,971,881
+City of Southgate Precinct 10,1155,957
+City of Southgate Precinct 11,638,313
+Township of Sumpter Precinct 1,465,558
+Township of Sumpter Precinct 2,309,478
+Township of Sumpter Precinct 3,384,556
+Township of Sumpter Precinct 4,184,350
+Township of Sumpter Precinct 5,333,276
+Township of Sumpter Precinct 6,455,854
+City of Taylor Precinct 1,655,808
+City of Taylor Precinct 2,473,638
+City of Taylor Precinct 3,808,587
+City of Taylor Precinct 4,846,934
+City of Taylor Precinct 5,619,741
+City of Taylor Precinct 6,588,389
+City of Taylor Precinct 7,850,856
+City of Taylor Precinct 8,431,488
+City of Taylor Precinct 9,534,572
+City of Taylor Precinct 10,690,803
+City of Taylor Precinct 11,393,573
+City of Taylor Precinct 12,680,699
+City of Taylor Precinct 13,857,651
+City of Taylor Precinct 14,958,820
+City of Taylor Precinct 15,737,405
+City of Taylor Precinct 16,390,605
+City of Taylor Precinct 17,821,557
+City of Taylor Precinct 18,812,659
+City of Taylor Precinct 19,560,223
+City of Taylor Precinct 20,522,431
+City of Taylor Precinct 21,614,598
+City of Taylor Precinct 22,876,465
+City of Taylor Precinct 23,762,285
+City of Trenton Precinct 1,951,898
+City of Trenton Precinct 2,756,981
+City of Trenton Precinct 3,717,945
+City of Trenton Precinct 4,722,831
+City of Trenton Precinct 5,942,1116
+City of Trenton Precinct 6,633,703
+City of Trenton Precinct 7,810,814
+Charter Township of Van Buren Precinct 1,665,590
+Charter Township of Van Buren Precinct 2,1422,678
+Charter Township of Van Buren Precinct 3,1447,342
+Charter Township of Van Buren Precinct 4,1442,426
+Charter Township of Van Buren Precinct 5,866,608
+Charter Township of Van Buren Precinct 6,1081,387
+Charter Township of Van Buren Precinct 7,1339,867
+Charter Township of Van Buren Precinct 8,1276,904
+Charter Township of Van Buren Precinct 9,989,594
+Charter Township of Van Buren Precinct 10,577,624
+City of Wayne Ward 1 Precinct 1,633,467
+City of Wayne Ward 2 Precinct 2,781,666
+City of Wayne Ward 3 Precinct 3,760,438
+City of Wayne Ward 4 Precinct 4,975,462
+City of Wayne Ward 5 Precinct 5,655,626
+City of Wayne Ward 6 Precinct 6,984,726
+City of Westland Precinct 1,475,528
+City of Westland Precinct 2,481,362
+City of Westland Precinct 3,526,538
+City of Westland Precinct 4,834,461
+City of Westland Precinct 5,804,580
+City of Westland Precinct 6,543,431
+City of Westland Precinct 7,775,393
+City of Westland Precinct 8,538,495
+City of Westland Precinct 9,567,223
+City of Westland Precinct 10,469,286
+City of Westland Precinct 11,484,295
+City of Westland Precinct 12,588,430
+City of Westland Precinct 13,613,432
+City of Westland Precinct 14,545,567
+City of Westland Precinct 15,610,179
+City of Westland Precinct 16,567,511
+City of Westland Precinct 17,619,659
+City of Westland Precinct 18,703,385
+City of Westland Precinct 19,588,513
+City of Westland Precinct 20,440,451
+City of Westland Precinct 21,971,562
+City of Westland Precinct 22,745,347
+City of Westland Precinct 23,561,336
+City of Westland Precinct 24,664,359
+City of Westland Precinct 25,687,617
+City of Westland Precinct 27,662,593
+City of Westland Precinct 28,1328,292
+City of Westland Precinct 29,727,589
+City of Westland Precinct 30,673,539
+City of Westland Precinct 32,523,531
+City of Westland Precinct 33,670,520
+City of Westland Precinct 34,854,614
+City of Westland Precinct 35,732,631
+City of Westland Precinct 36,500,473
+City of Westland Precinct 37,503,563
+City of Westland Precinct 38,986,431
+City of Westland Precinct 39,873,185
+City of Westland Precinct 40,773,367
+City of Westland Precinct 41,859,211
+City of Woodhaven Precinct 1,727,784
+City of Woodhaven Precinct 2,918,1093
+City of Woodhaven Precinct 3,397,372
+City of Woodhaven Precinct 4,510,510
+City of Woodhaven Precinct 5,482,480
+City of Woodhaven Precinct 6,680,671
+City of Wyandotte Precinct 1,543,481
+City of Wyandotte Precinct 2,925,745
+City of Wyandotte Precinct 3,652,609
+City of Wyandotte Precinct 4,800,754
+City of Wyandotte Precinct 5,795,859
+City of Wyandotte Precinct 6,796,816
+City of Wyandotte Precinct 7,512,590
+City of Wyandotte Precinct 8,761,690
+City of Wyandotte Precinct 9,1016,897
+City of Wyandotte Precinct 10,489,571
+City of Detroit AVCB 1,1463,32
+City of Detroit AVCB 2,1852,131
+City of Detroit AVCB 3,1806,71
+City of Detroit AVCB 4,1776,72
+City of Detroit AVCB 5,1808,56
+City of Detroit AVCB 6,2393,124
+City of Detroit AVCB 7,1850,71
+City of Detroit AVCB 8,1652,38
+City of Detroit AVCB 9,925,22
+City of Detroit AVCB 10,904,14
+City of Detroit AVCB 11,2024,90
+City of Detroit AVCB 12,1473,53
+City of Detroit AVCB 13,1513,48
+City of Detroit AVCB 14,1709,38
+City of Detroit AVCB 15,1707,39
+City of Detroit AVCB 16,2023,55
+City of Detroit AVCB 17,2546,103
+City of Detroit AVCB 18,2028,50
+City of Detroit AVCB 19,2188,94
+City of Detroit AVCB 20,2195,45
+City of Detroit AVCB 21,2037,47
+City of Detroit AVCB 22,2337,57
+City of Detroit AVCB 23,2662,163
+City of Detroit AVCB 24,2781,100
+City of Detroit AVCB 25,3099,186
+City of Detroit AVCB 26,3211,171
+City of Detroit AVCB 27,2290,59
+City of Detroit AVCB 28,2235,47
+City of Detroit AVCB 29,2079,84
+City of Detroit AVCB 30,2036,70
+City of Detroit AVCB 31,2237,61
+City of Detroit AVCB 32,2121,68
+City of Detroit AVCB 33,2508,80
+City of Detroit AVCB 34,1710,44
+City of Detroit AVCB 35,1698,83
+City of Detroit AVCB 36,2795,93
+City of Detroit AVCB 37,2178,51
+City of Detroit AVCB 38,2641,87
+City of Detroit AVCB 39,2204,101
+City of Detroit AVCB 40,2169,74
+City of Detroit AVCB 41,1679,35
+City of Detroit AVCB 42,1135,38
+City of Detroit AVCB 43,1614,25
+City of Detroit AVCB 44,1544,29
+City of Detroit AVCB 45,1449,33
+City of Detroit AVCB 46,1426,34
+City of Detroit AVCB 47,1145,29
+City of Detroit AVCB 48,1112,23
+City of Detroit AVCB 49,964,28
+City of Detroit AVCB 50,1665,34
+City of Detroit AVCB 51,1857,39
+City of Detroit AVCB 52,1941,88
+City of Detroit AVCB 53,1113,35
+City of Detroit AVCB 54,1003,32
+City of Detroit AVCB 55,2304,169
+City of Detroit AVCB 56,1450,35
+City of Detroit AVCB 57,1599,56
+City of Detroit AVCB 58,1745,39
+City of Detroit AVCB 59,1010,36
+City of Detroit AVCB 60,1290,37
+City of Detroit AVCB 61,555,12
+City of Detroit AVCB 62,2157,117
+City of Detroit AVCB 63,1870,85
+City of Detroit AVCB 64,1747,50
+City of Detroit AVCB 65,2063,67
+City of Detroit AVCB 66,1644,38
+City of Detroit AVCB 67,1607,30
+City of Detroit AVCB 68,1237,27
+City of Detroit AVCB 69,1061,29
+City of Detroit AVCB 70,893,20
+City of Detroit AVCB 71,445,15
+City of Detroit AVCB 72,1490,33
+City of Detroit AVCB 73,1644,44
+City of Detroit AVCB 74,1264,62
+City of Detroit AVCB 75,1995,69
+City of Detroit AVCB 76,571,7
+City of Detroit AVCB 77,1791,48
+City of Detroit AVCB 78,1694,42
+City of Detroit AVCB 79,1210,28
+City of Detroit AVCB 80,702,18
+City of Detroit AVCB 81,978,26
+City of Detroit AVCB 82,803,89
+City of Detroit AVCB 83,1045,100
+City of Detroit AVCB 84,984,114
+City of Detroit AVCB 85,672,41
+City of Detroit AVCB 86,1654,125
+City of Detroit AVCB 87,1338,143
+City of Detroit AVCB 88,1956,274
+City of Detroit AVCB 89,2093,104
+City of Detroit AVCB 90,432,14
+City of Detroit AVCB 91,508,12
+City of Detroit AVCB 92,879,20
+City of Detroit AVCB 93,948,27
+City of Detroit AVCB 94,1385,32
+City of Detroit AVCB 95,1691,29
+City of Detroit AVCB 96,949,19
+City of Detroit AVCB 97,327,7
+City of Detroit AVCB 98,375,9
+City of Detroit AVCB 99,364,7
+City of Detroit AVCB 100,137,12
+City of Detroit AVCB 101,198,2
+City of Detroit AVCB 102,357,9
+City of Detroit AVCB 103,190,3
+City of Detroit AVCB 104,284,12
+City of Detroit AVCB 105,6,0
+City of Detroit AVCB 106,12,0
+City of Detroit AVCB 107,169,7
+City of Detroit AVCB 108,341,10
+City of Detroit AVCB 109,406,2
+City of Detroit AVCB 110,201,15
+City of Detroit AVCB 111,48,7
+City of Detroit AVCB 112,338,14
+City of Detroit AVCB 113,3,0
+City of Detroit AVCB 114,325,33
+City of Detroit AVCB 115,64,6
+City of Detroit AVCB 116,321,12
+City of Detroit AVCB 117,443,5
+City of Detroit AVCB 118,23,0
+City of Detroit AVCB 119,156,5
+City of Detroit AVCB 120,626,25
+City of Detroit AVCB 121,241,7
+City of Detroit AVCB 122,471,31
+City of Detroit AVCB 123,233,11
+City of Detroit AVCB 124,283,7
+City of Detroit AVCB 125,7,0
+City of Detroit AVCB 126,66,0
+City of Detroit AVCB 127,4,0
+City of Detroit AVCB 128,140,15
+City of Detroit AVCB 129,16,2
+City of Detroit AVCB 130,263,4
+City of Detroit AVCB 131,136,3
+City of Detroit AVCB 132,112,3
+City of Detroit AVCB 133,310,8
+City of Detroit AVCB 134,344,4

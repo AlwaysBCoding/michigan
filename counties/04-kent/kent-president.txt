@@ -1,4 +1,4 @@
-precinct_name,registered,votes_cast,turnout,biden,trump,jorgensen,blankenship,hawkins,de_la_fuente,wt
+precinct_name,reg,votes_cast,turnout,biden,trump,jorgensen,blankenship,hawkins,de_la_fuente,wt
 Ada Township Precinct 1,1316,1090,82.83%,589,472,13,1,0,0,0
 Ada Township Precinct 2,2428,1979,81.51%,1043,886,28,1,5,1,0
 Ada Township Precinct 3,1397,1152,82.46%,512,592,28,2,3,0,0

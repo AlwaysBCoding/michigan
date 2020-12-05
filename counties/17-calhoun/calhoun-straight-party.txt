@@ -1,4 +1,4 @@
-precinct_name,registered_voters,poll_book,voter_turnout,democrat,republican,libertarian,taxpayers,working_class,green,natural_law
+precinct_name,registered_voters,poll_book,voter_turnout,dem,rep,libertarian,taxpayers,working_class,green,natural_law
 City of Albion Precinct 1,1025,543,52.98%,369,57,0,1,3,0,1
 City of Albion Precinct 2,852,410,48.12%,239,49,3,0,3,1,0
 City of Albion Precinct 3,1164,652,56.01%,273,114,3,3,0,0,0

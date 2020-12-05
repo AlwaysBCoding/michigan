@@ -1,4 +1,4 @@
-precinct_name,registered_voters,poll_book,voter_turnout,biden,trump,jorgensen,blankenship,hawkins,de_la_fuente,wi1,wi2,wi3,wi4,wi5
+precinct_name,reg,votes_cast,voter_turnout,biden,trump,jorgensen,blankenship,hawkins,de_la_fuente,wi1,wi2,wi3,wi4,wi5
 City of Albion Precinct 1,1025,543,52.98%,446,92,4,0,0,0,0,0,0,0,0
 City of Albion Precinct 2,852,410,48.12%,314,90,4,0,1,0,0,0,0,0,0
 City of Albion Precinct 3,1164,652,56.01%,435,194,12,2,2,0,0,0,0,0,0

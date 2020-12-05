@@ -1,0 +1,81 @@
+City of Brighton Precinct 1
+City of Brighton Precinct 2
+City of Brighton Precinct 3
+City of Brighton Precinct 4
+City of Howell Precinct 1
+City of Howell Precinct 2
+City of Howell Precinct 3
+Brighton Charter Township Precinct 1
+Brighton Charter Township Precinct 2
+Brighton Charter Township Precinct 3
+Brighton Charter Township Precinct 4
+Brighton Charter Township Precinct 5
+Brighton Charter Township Precinct 6
+Brighton Charter Township Precinct 7
+Brighton Charter Township Precinct 8
+Brighton Charter Township Precinct 9
+Cohoctah Township Precinct 1
+Conway Township Precinct 1
+Deerfield Township Precinct 1
+Deerfield Township. Precinct 2
+Genoa Charter Township Precinct 1
+Genoa Charter Township Precinct 2
+Genoa Charter Township Precinct 3
+Genoa Charter Township Precinct 4
+Genoa Charter Township Precinct 5
+Genoa Charter Township Precinct 6
+Genoa Charter Township Precinct 7
+Genoa Charter Township Precinct 8
+Genoa Charter Township Precinct 9
+Genoa Charter Township Precinct 10
+Genoa Charter Township Precinct 11
+Genoa Charter Township Precinct 13
+Green Oak Charter Township Precinct 1
+Green Oak Charter Township Precinct 2
+Green Oak Charter Township Precinct 3
+Green Oak Charter Township Precinct 4
+Green Oak Charter Township Precinct 5
+Green Oak Charter Township Precinct 6
+Green Oak Charter Township Precinct 7
+Green Oak Charter Township Precinct 8
+Green Oak Charter Township Precinct 9
+Hamburg Township Precinct 1
+Hamburg Township Precinct 2
+Hamburg Township Precinct 3
+Hamburg Township Precinct 4
+Hamburg Township Precinct 5
+Hamburg Township Precinct 6
+Hamburg Township Precinct 7
+Hamburg Township. Precinct 8
+Handy Township Precinct 1
+Handy Township Precinct 2
+Handy Township Precinct 3
+Hartland Township Precinct 1
+Hartland Township Precinct 2
+Hartland Township Precinct 3
+Hartland Township Precinct 4
+Hartland Township Precinct 5
+Howell Township Precinct 1
+Howell Township Precinct 2
+Howell Township Precinct 3
+Iosco Township Precinct 1
+losco Township Precinct 2
+Marion Township Precinct 1
+Marion Township Precinct 2
+Marion Township Precinct 3
+Marion Township Precinct 4
+Oceola Township Precinct 1
+Oceola Township Precinct 2
+Oceola Township Precinct 3
+Oceola Township Precinct 4
+Oceola Township Precinct 5
+Putnam Township Precinct 1
+Putnam Township Precinct 2
+Putnam Township Precinct 3
+Putnam Township Precinct 4
+Tyrone Township Precinct 1
+Tyrone Township Precinct 2
+Tyrone Township Precinct 3
+Tyrone Township Precinct 4
+Unadilla Township Precinct 1
+
